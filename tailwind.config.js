@@ -5,7 +5,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        accent: "#3b82f6",
+    neonGreen: "#39ff14",
+    neonPurple: "#c77dff",
+    neonYellow: "#faff00",
+    darkBg: "#0a0a0a",
       },
     },
   },
